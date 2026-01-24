@@ -1,8 +1,10 @@
 # Weather Checking Web App
+Live Demo:
+https://wheather-app-naveen.vercel.app/
 
+Description:
 A simple and responsive Weather Checking Web Application that allows users to search for any city and view real-time weather information including climate image, temperature, wind speed, and humidity.
-
-The project is developed using HTML, CSS, and JavaScript and fetches live weather data from the OpenWeather API.
+The application is built using HTML, CSS, and JavaScript and fetches live weather data from the OpenWeather API.
 
 ## Features
 
